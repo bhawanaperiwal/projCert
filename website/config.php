@@ -5,6 +5,7 @@
  *
  * @var string
  */
+/* Check */
 function config($key = '')
 {
     $config = [
