@@ -7,7 +7,7 @@ function siteName()
 {
     echo config('name');
 }
-
+/* Changes for Project */
 /**
  * Displays site version.
  */
